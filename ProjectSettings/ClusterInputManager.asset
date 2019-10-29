@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:37de57228b645f23e157276e7c2c9558c9befba7ee293a4e8525333e12838d7b
-size 4104
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!236 &1
+ClusterInputManager:
+  m_ObjectHideFlags: 0
+  m_Inputs: []
