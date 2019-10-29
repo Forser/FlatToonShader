@@ -27,11 +27,5 @@ NOTE: These shaders are meant for use on avatars and do not support lightmapping
 ![alt text](Media/Simple_Gradient_Sky__thumb.png)
   * A simple procedural skybox that fades from a sky color to a horizon color
 
-## Notes
-Project contains the following assets:  
-* <a href="http://acegikmo.com/shaderforge/">ShaderForge</a> (gitignored)
-* <a href="http://unity-chan.com/">SD UnityChan</a>
-* <a href="http://saadkhawaja.com/instant-hi-res-screenshot/">Instant Screenshot</a>
-
 
 
